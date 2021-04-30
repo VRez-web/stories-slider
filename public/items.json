@@ -1,0 +1,154 @@
+{
+  "items": [
+    {
+      "username": "Imadovitch",
+      "picture": "img/man/1.jfif",
+      "images": [
+        {
+          "url": "img/1.jfif"
+        },
+        {
+          "url": "img/2.jfif"
+        },
+        {
+          "url": "img/3.jfif"
+        }
+      ]
+    },
+    {
+      "username": "Ema",
+      "picture": "img/woman/1.jfif",
+      "images": [
+        {
+          "url": "img/4.jfif"
+        },
+        {
+          "url": "img/5.jfif"
+        },
+        {
+          "url": "img/6.jfif"
+        }
+      ]
+    },
+    {
+      "username": "Artem",
+      "picture": "img/man/2.jfif",
+      "images": [
+        {
+          "url": "img/7.jfif"
+        },
+        {
+          "url": "img/8.jfif"
+        },
+        {
+          "url": "img/9.jfif"
+        }
+      ]
+    },
+    {
+      "username": "Ira",
+      "picture": "img/woman/2.jfif",
+      "images": [
+        {
+          "url": "img/10.jfif"
+        },
+        {
+          "url": "img/11.jfif"
+        },
+        {
+          "url": "img/12.jfif"
+        }
+      ]
+    },
+    {
+      "username": "Emir",
+      "picture": "img/man/3.jfif",
+      "images": [
+        {
+          "url": "img/13.jfif"
+        },
+        {
+          "url": "img/14.jfif"
+        },
+        {
+          "url": "img/15.jfif"
+        }
+      ]
+    },
+    {
+      "username": "Alena",
+      "picture": "img/woman/3.jfif",
+      "images": [
+        {
+          "url": "img/16.jfif"
+        },
+        {
+          "url": "img/17.jfif"
+        },
+        {
+          "url": "img/18.jfif"
+        }
+      ]
+    },
+    {
+      "username": "Dron",
+      "picture": "img/man/4.jfif",
+      "images": [
+        {
+          "url": "img/19.jfif"
+        },
+        {
+          "url": "img/20.jfif"
+        },
+        {
+          "url": "img/21.jfif"
+        }
+      ]
+    },
+    {
+      "username": "Jenya",
+      "picture": "img/woman/4.jfif",
+      "images": [
+        {
+          "url": "img/22.jfif"
+        },
+        {
+          "url": "img/23.jfif"
+        },
+        {
+          "url": "img/24.jfif"
+        }
+      ]
+    },
+    {
+      "username": "Roman",
+      "picture": "img/man/5.jfif",
+      "images": [
+        {
+          "url": "img/25.jfif"
+        },
+        {
+          "url": "img/26.jfif"
+        },
+        {
+          "url": "img/27.jfif"
+        }
+      ]
+    },
+    {
+      "username": "Romashka",
+      "picture": "img/woman/5.jfif",
+      "images": [
+        {
+          "url": "img/28.jfif"
+        },
+        {
+          "url": "img/29.jfif"
+        },
+        {
+          "url": "img/30.jfif"
+        }
+      ]
+    }
+  ]
+}
